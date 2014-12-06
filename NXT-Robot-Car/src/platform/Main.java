@@ -3,10 +3,6 @@ package platform;
 import lejos.nxt.Button;
 import lejos.nxt.Sound;
 
-/**
- * Example leJOS Project with an ant build file
- *
- */
 public class Main {
 
 	public static void main(String[] args) {
